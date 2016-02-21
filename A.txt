@@ -7,3 +7,4 @@ abcd
 acuma incerci o modificare pe git repo.
 acum a doua
 acuma a treia
+Acuma o incercare de git diff.
